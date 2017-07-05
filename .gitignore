@@ -1,0 +1,7 @@
+# my Spring Boot gitignore
+# 2017-7-5
+
+# idea maven
+target/
+.idea/
+*.iml
